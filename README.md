@@ -9,7 +9,7 @@ Code template available on this <a href="https://github.com/paulodowd/EMATM0054_
 Start Here: <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Core/L0_Troubleshooting.md"> FAQ / Trouble Shooting</a><br>
 
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Labsheet Title | Description |
-|---------------|----------------|----------------|-------------|
+|---------------|----------------|----------------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb) | FAQ / TroubleShooting | Review common problems and solutions |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb) | **Labsheet 1**: Getting Started, Uploading, Debugging | 2 hours | Very basic exercises to familiarise with coding and the 3Pi+ robot. |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Core/L2_Motors.ipynb) | **Labsheet 2**: Motors |  Exercises to get your robot moving, steps to be confident that your code will behave predictably, and writing a Class. |
