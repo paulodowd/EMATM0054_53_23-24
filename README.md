@@ -1,5 +1,15 @@
 # EMATM0054_53_23-24
 Robotic Systems Teaching Materials.
+
+# System Block Diagram
+
+
+
+<p align="center">
+<a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/SystemBlockDiagram.png?raw=true"><img src=https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/SystemBlockDiagram.png?raw=true></a>
+</p>
+
+
 ## Core Labsheets (Assessment 1)
 
 It is recommended you read through all Labsheets before you start, and then decide on which areas you need to focus on.  If you have prior experience programming, there may be areas you can skip.  
