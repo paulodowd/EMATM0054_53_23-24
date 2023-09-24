@@ -2,12 +2,14 @@
 Robotic Systems Teaching Materials.
 
 ## Assessment 1 Materials
-
+<br>
+<a href="https://github.com/paulodowd/EMATM0054_53_23-24/tree/main/Maps">Please find printable A3 sheets for the line following challenge here</a>.
+<br>
 <p align="center">
   <img src="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/cw_map_image.png?raw=true">
 </p>
 <br>
-<a href="https://github.com/paulodowd/EMATM0054_53_23-24/tree/main/Maps">Please find printable A3 sheets for the line following challenge here</a>.
+
 
 ## Assessment 1 System Block Diagram
 
