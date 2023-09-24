@@ -1,14 +1,19 @@
 # EMATM0054_53_23-24
 Robotic Systems Teaching Materials.
 
-# System Block Diagram
+## Assessment 1 Materials
 
+<p align="center">
+  <img src="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/cw_map_image.png?raw=true">
+</p>
+<br>
+<a href="https://github.com/paulodowd/EMATM0054_53_23-24/tree/main/Maps">Please find printable A3 sheets for the line following challenge here</a>.
 
+## Assessment 1 System Block Diagram
 
 <p align="center">
 <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/SystemBlockDiagram.png?raw=true"><img src=https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Images/SystemBlockDiagram.png?raw=true></a>
 </p>
-
 
 ## Core Labsheets (Assessment 1)
 
