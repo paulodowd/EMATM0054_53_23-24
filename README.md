@@ -50,6 +50,6 @@ Start Here: <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/L
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Supp/SL7_Serial_Input.ipynb) | SL7: Serial Input |  How to use the Serial interface to provide input to your robot. <br>|
 
 ## Assessment 2 Abstracts
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb) &nbsp; <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb">List of A2 Project Abstracts</a>  <br>
+|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Description |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb) | A2 Project Abstracts | <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb">List of A2 Project Abstracts</a>  <br>|
 
