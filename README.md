@@ -49,4 +49,7 @@ Start Here: <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/L
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/PlottingGuidance/blob/main/PlottingResults_HelpSheet.ipynb) | SL6: Graphing Results | Example Python/Colab code to plot various graphs for Assessment 2. <br> |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Supp/SL7_Serial_Input.ipynb) | SL7: Serial Input |  How to use the Serial interface to provide input to your robot. <br>|
 
+## Assessment 2 Abstracts
+<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb)  <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb">List of A2 Project Abstracts</a>  <br>
 
