@@ -51,5 +51,6 @@ Start Here: <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/L
 
 ## Assessment 2 Abstracts
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Description |
+|---------------|----------------|----------------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb) | A2 Project Abstracts | <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Misc/Previous_Projects.ipynb">List of A2 Project Abstracts</a>  <br>|
 
