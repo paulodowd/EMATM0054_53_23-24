@@ -49,6 +49,14 @@ Start Here: <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/L
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/PlottingGuidance/blob/main/PlottingResults_HelpSheet.ipynb) | SL6: Graphing Results | Example Python/Colab code to plot various graphs for Assessment 2. <br> |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/Labsheets/Supp/SL7_Serial_Input.ipynb) | SL7: Serial Input |  How to use the Serial interface to provide input to your robot. <br>|
 
+## Assessment 2 Idea Sheets
+|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Description |
+|---------------|----------------|----------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_1_Box_Pushing.ipynb) | Project Idea 1 | <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_1_Box_Pushing.ipynb">Box Pushing</a>  <br>|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_2_Leader_Follower.ipynb) | Project Idea 2 | <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_2_Leader_Follower.ipynb">Leader Follower</a>  <br>|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_3_Line_Design.ipynb) | Project Idea 3 | <a href="https://github.com/paulodowd/EMATM0054_53_23-24/blob/main/ProjectIdeas/Project_Idea_3_Line_Design.ipynb">Line Design</a>  <br>|
+
+
 ## Assessment 2 Abstracts
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Description |
 |---------------|----------------|----------------|
